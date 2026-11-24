@@ -1,14 +1,13 @@
-### Hi, I'm Mint Ryu 👋
-
-独立开发者。做 Windows 桌面软件、实时 AI 语音和音频插件，也在 [mintryu.com](https://mintryu.com/) 写 AI、软件开发、音频和韩国生活。
-
-Indie developer making Windows desktop apps, real-time AI voice tools and audio plug-ins. Blog and projects: [mintryu.com](https://mintryu.com/).
-
 | 项目 | 说明 |
 | --- | --- |
-| [Mintaria 萌音](https://github.com/ysuhao/Mintaria) | 免费的 Windows 本地实时 AI 变声软件 · Free real-time AI voice changer for Windows · [官网](https://mintaria.mintryu.com/) |
-| [mignet](https://github.com/ysuhao/mignet) | 在 Word 里拿起、瞄准、落章的桌面印章，GPLv3 · Desktop stamp for Microsoft Word · [官网](https://mignet.mintryu.com/) |
-| [MINT Final Channel](https://github.com/ysuhao/mint-final-channel) | 中英双语双模式通道条 VST3，MIT · Bilingual channel-strip VST3 plug-in |
-| [mintryu-site](https://github.com/ysuhao/mintryu-site) | mintryu.com 的源码（Cloudflare Workers） |
+| [Mintaria](https://github.com/Link2theWorld/Mintaria) | 免费的 Windows 本地实时 AI 变声软件 · Free real-time AI voice changer for Windows · [官网](https://mintaria.mintryu.com/) |
+| [Melorb](https://melorb.mintryu.com/) | Windows 音频路由、混音与效果工作站 · Windows audio routing, mixing and effects workstation |
+| [Mintyx](https://github.com/Link2theWorld/mintyx) | 一个人用的 Xray 面板，带一键部署器 · A self-hosted Xray panel for one person, with a one-click deployer |
 
-[博客](https://mintryu.com/blog) · [X](https://x.com/Ryusoohow) · [YouTube](https://www.youtube.com/@mint8733) · me@mintryu.com
+### DSP 插件 · DSP plug-ins
+
+| 插件 | 说明 |
+| --- | --- |
+| [Mintaria Pantheon](https://github.com/Link2theWorld/mintaria-pantheon) | 11 款人声 VST3，AGPL-3.0 · Eleven vocal VST3 plug-ins · [官网](https://vst.mintryu.com/) |
+| [MINT Final Channel](https://github.com/Link2theWorld/mint-final-channel) | 中英双语通道条 VST3，MIT · Bilingual channel-strip VST3 · [官网](https://mintryu.com/works/mint-final-channel/) |
+| [minoise](https://github.com/Link2theWorld/minoise) | 免费实时人声降噪 VST3 · Real-time voice denoiser VST3 · [官网](https://minoise.mintryu.com/) |
