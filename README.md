@@ -9,5 +9,4 @@
 | 插件 | 说明 |
 | --- | --- |
 | [Mintaria Pantheon](https://github.com/Link2theWorld/mintaria-pantheon) | 11 款人声 VST3，AGPL-3.0 · Eleven vocal VST3 plug-ins · [官网](https://vst.mintryu.com/) |
-| [MINT Final Channel](https://github.com/Link2theWorld/mint-final-channel) | 中英双语通道条 VST3，MIT · Bilingual channel-strip VST3 · [官网](https://mintryu.com/works/mint-final-channel/) |
 | [minoise](https://github.com/Link2theWorld/minoise) | 免费实时人声降噪 VST3 · Real-time voice denoiser VST3 · [官网](https://minoise.mintryu.com/) |
