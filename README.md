@@ -1,6 +1,6 @@
 | 项目 | 说明 |
 | --- | --- |
-| [Mintaria](https://github.com/Link2theWorld/Mintaria) | 免费的 Windows 本地实时 AI 变声软件 · Free real-time AI voice changer for Windows · [官网](https://mintaria.mintryu.com/) |
+| [Mintaria](https://github.com/Link2theWorld/Mintaria) | Windows和Mac的 本地实时 AI 变声软件 · Free real-time AI voice changer for Windows · [官网](https://mintaria.mintryu.com/) |
 | [Melorb](https://melorb.mintryu.com/) | Windows 音频路由、混音与效果工作站 · Windows audio routing, mixing and effects workstation |
 | [Mintyx](https://github.com/Link2theWorld/mintyx) | 一个人用的 Xray 面板，带一键部署器 · A self-hosted Xray panel for one person, with a one-click deployer |
 
